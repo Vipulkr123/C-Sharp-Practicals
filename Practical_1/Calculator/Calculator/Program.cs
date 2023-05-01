@@ -14,8 +14,10 @@ namespace Calculator
                 do
                 {
                     Console.WriteLine();
+                    Console.WriteLine();
                     do
                     {
+                        Console.WriteLine();
                         Console.ForegroundColor = ConsoleColor.White;
                         Console.Write("Please Enter First number : ");
                         Input_1 = Console.ReadLine();
@@ -42,16 +44,24 @@ namespace Calculator
                     double Number_2 = Convert.ToDouble(Input_2);
                     if (Number_2 != 0)
                     {
+                        Console.WriteLine();
                         Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("****************** Result *********************");
+                        Console.WriteLine();
                         Console.WriteLine($"The sum of {Number_1} and {Input_2} is {Math.Round((Number_1 + Number_2), 4)}");
                         Console.WriteLine($"The subtraction  of {Number_1} and {Input_2} is {Math.Round((Number_1 - Number_2), 4)}");
                         Console.WriteLine($"The multiplication of {Number_1} and {Input_2} is {Math.Round((Number_1 * Number_2), 4)}");
                         Console.WriteLine($"The division  of {Number_1} and {Input_2} is {Math.Round((Number_1 / Number_2), 4)}");
+                        Console.WriteLine();
+                        Console.WriteLine("***********************************************");
+                        Console.WriteLine();
                     }
                     else
                     {
+                        Console.WriteLine();
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine($"The {Input_1} can't Divide by 0");
+                        Console.WriteLine();
                     }
                     Console.ForegroundColor = ConsoleColor.Blue;
                     Console.Write("Do you want to continue : y/n => ");
