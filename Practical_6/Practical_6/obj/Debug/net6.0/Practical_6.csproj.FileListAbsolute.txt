@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\Practical_6\Practical_6\bin\Debug\net6.0\Practical_6.exe
+C:\Users\vipul\source\repos\Practical_6\Practical_6\bin\Debug\net6.0\Practical_6.deps.json
+C:\Users\vipul\source\repos\Practical_6\Practical_6\bin\Debug\net6.0\Practical_6.runtimeconfig.json
+C:\Users\vipul\source\repos\Practical_6\Practical_6\bin\Debug\net6.0\Practical_6.dll
+C:\Users\vipul\source\repos\Practical_6\Practical_6\bin\Debug\net6.0\Practical_6.pdb
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\Practical_6.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\Practical_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\Practical_6.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\Practical_6.AssemblyInfo.cs
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\Practical_6.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\Practical_6.dll
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\refint\Practical_6.dll
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\Practical_6.pdb
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\Practical_6.genruntimeconfig.cache
+C:\Users\vipul\source\repos\Practical_6\Practical_6\obj\Debug\net6.0\ref\Practical_6.dll
