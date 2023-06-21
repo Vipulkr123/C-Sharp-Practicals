@@ -1,7 +1,7 @@
 ﻿
 namespace Practical_4
 {
-    internal class Student
+    public class Student
     {
         public string Name;
         public decimal[] Marks =  new decimal[5];

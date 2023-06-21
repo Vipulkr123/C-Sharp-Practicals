@@ -60,12 +60,6 @@ namespace CSharp_practical_8
             return false;
 
         }
-
-        public bool UpdateAccountDetails(long accountNumber)
-        {
-            throw new NotImplementedException();
-        }
-
         public void CalculateInterest(long accountNumber, double balance)
         {
             BankAccount? data = DBContext.db.FirstOrDefault(e => e.AccountNumber == accountNumber);

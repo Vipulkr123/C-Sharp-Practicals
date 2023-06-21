@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vipul\\source\\repos\\CSharp_practical_8-master\\CSharp_practical_8\\CSharp_practical_8.csproj",
+      "projectUniqueName": "C:\\Users\\vipul\\Documents\\C# Practicals\\Practical_8\\CSharp_practical_8\\CSharp_practical_8.csproj",
       "projectName": "CSharp_practical_8",
-      "projectPath": "C:\\Users\\vipul\\source\\repos\\CSharp_practical_8-master\\CSharp_practical_8\\CSharp_practical_8.csproj",
+      "projectPath": "C:\\Users\\vipul\\Documents\\C# Practicals\\Practical_8\\CSharp_practical_8\\CSharp_practical_8.csproj",
       "packagesPath": "C:\\Users\\vipul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vipul\\source\\repos\\CSharp_practical_8-master\\CSharp_practical_8\\obj\\",
+      "outputPath": "C:\\Users\\vipul\\Documents\\C# Practicals\\Practical_8\\CSharp_practical_8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vipul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

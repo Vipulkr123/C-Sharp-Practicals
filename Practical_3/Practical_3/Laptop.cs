@@ -1,7 +1,7 @@
 ﻿
 namespace Practical_3
 {
-    internal class Laptop
+    public class Laptop
     {
         private string _brand = string.Empty;
         private string _model = string.Empty;

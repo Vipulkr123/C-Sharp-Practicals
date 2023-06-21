@@ -2,7 +2,7 @@
 using System.Text.RegularExpressions;
 namespace Practical_5
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {

@@ -2,7 +2,7 @@
 namespace Practical_6
 {
     public delegate void EventHandler();
-    internal class ProcessBusinessLogic
+    public class ProcessBusinessLogic
     {
         public event EventHandler ProcessCompleted;
         public void StartProcess()

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vipul\\source\\repos\\Practical_5\\Practical_5\\Practical_5.csproj",
+      "projectUniqueName": "C:\\Users\\vipul\\Documents\\C# Practicals\\Practical_5\\Practical_5\\Practical_5.csproj",
       "projectName": "Practical_5",
-      "projectPath": "C:\\Users\\vipul\\source\\repos\\Practical_5\\Practical_5\\Practical_5.csproj",
+      "projectPath": "C:\\Users\\vipul\\Documents\\C# Practicals\\Practical_5\\Practical_5\\Practical_5.csproj",
       "packagesPath": "C:\\Users\\vipul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vipul\\source\\repos\\Practical_5\\Practical_5\\obj\\",
+      "outputPath": "C:\\Users\\vipul\\Documents\\C# Practicals\\Practical_5\\Practical_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vipul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

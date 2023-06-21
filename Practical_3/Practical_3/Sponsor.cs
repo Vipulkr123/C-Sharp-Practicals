@@ -1,11 +1,11 @@
 ﻿
 namespace Practical_3
 {
-    internal class Sponsor
+    public class Sponsor
     {
         protected string Owner = "Rakuteen";
     }
-    internal class Team : Sponsor
+    public class Team : Sponsor
     {
         private readonly string _teamName;
         public Team(string teamName)
@@ -14,7 +14,7 @@ namespace Practical_3
         }
         public string PrintInfo()
         {
-           return Owner + " " + _teamName;
+           return ($"{Owner} {_teamName}");
         }
     }
 }

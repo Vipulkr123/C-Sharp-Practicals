@@ -28,3 +28,18 @@ C:\Users\vipul\source\repos\CSharp_practical_8-master\CSharp_practical_8\obj\Deb
 C:\Users\vipul\source\repos\CSharp_practical_8-master\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.pdb
 C:\Users\vipul\source\repos\CSharp_practical_8-master\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.genruntimeconfig.cache
 C:\Users\vipul\source\repos\CSharp_practical_8-master\CSharp_practical_8\obj\Debug\net7.0\ref\CSharp_practical_8.dll
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\bin\Debug\net7.0\CSharp_practical_8.exe
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\bin\Debug\net7.0\CSharp_practical_8.deps.json
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\bin\Debug\net7.0\CSharp_practical_8.runtimeconfig.json
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\bin\Debug\net7.0\CSharp_practical_8.dll
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\bin\Debug\net7.0\CSharp_practical_8.pdb
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.csproj.AssemblyReference.cache
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.AssemblyInfoInputs.cache
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.AssemblyInfo.cs
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.csproj.CoreCompileInputs.cache
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.dll
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\refint\CSharp_practical_8.dll
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.pdb
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\CSharp_practical_8.genruntimeconfig.cache
+C:\Users\vipul\Documents\C# Practicals\Practical_8\CSharp_practical_8\obj\Debug\net7.0\ref\CSharp_practical_8.dll
